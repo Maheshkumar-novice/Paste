@@ -1,0 +1,5 @@
+__pycache__/
+templates/
+.ruff_cache/
+venv/
+*.db
